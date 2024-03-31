@@ -16,11 +16,11 @@
           <div class="pt-5 flex flex-col justify-between pl-5">
             <h3 class="text-bl">Komplaens nazorati bo'limi</h3>
 
-            <p class="ext-black text-lg">
+            <p class="text-black text-lg font-poppins">
               Bo'lim boshlig'i : Rustamov Gani Xudoyarovich
             </p>
-            <p class="ext-black text-lg">Telefon : (71) 240-07-24</p>
-            <p class="ext-black text-lg">Email : g.rustamov@rtmc.uz</p>
+            <p class="text-black text-lg font-poppins">Telefon : (71) 240-07-24</p>
+            <p class="text-black text-lg font-poppins">Email : g.rustamov@rtmc.uz</p>
 
             <nuxt-link to="#" class="w-[200px] py-[10px] rounded-[6px] hover:bg-bl/70 hover:text-white text-bl text-center border border-bl"> Batafsil </nuxt-link>
           </div>
