@@ -29,6 +29,7 @@ export default {
          "gray-100": "#F5F6F7",
          danger: "#D94540",
          black: "#222",
+         bl:"#007bff",
       },
       extend: {
          fontFamily: {
